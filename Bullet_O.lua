@@ -1,0 +1,5 @@
+--
+-- Created by other objects.
+-- Moves autonomously in one of 8 direction (up, down, left, right, and diagonals) 
+-- Is deleted/removed when it hits an object or the edge of screen
+--

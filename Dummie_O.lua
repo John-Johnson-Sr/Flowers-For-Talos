@@ -1,0 +1,3 @@
+--
+-- Moves directly to the player's current location
+--
